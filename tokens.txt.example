@@ -1,0 +1,4 @@
+# One LightVela bearer token per line.
+# Grab from the dashboard: DevTools → Network → any API request →
+# copy the value after "authorization: Bearer ".
+# Keep this file out of git (already in .gitignore) and chmod 600.

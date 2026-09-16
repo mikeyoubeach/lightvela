@@ -1,0 +1,14 @@
+# Secrets — never commit
+tokens.txt
+tailscale.key
+*.key
+*.ppk
+id_rsa
+id_ed25519
+id_ed25519.pub
+*.pem
+
+# Python
+__pycache__/
+*.pyc
+.venv/
